@@ -1,0 +1,24 @@
+{
+  "name": "vrc-invite-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nginnever/vrc-invite-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nginnever/vrc-invite-bot/issues"
+  },
+  "homepage": "https://github.com/nginnever/vrc-invite-bot#readme",
+  "dependencies": {
+    "async": "^3.2.3",
+    "vrchat": "^1.7.1"
+  }
+}
